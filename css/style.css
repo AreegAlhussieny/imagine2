@@ -1097,6 +1097,10 @@ select{
                                  margin: 10px 15px;
                                   max-width: 166px;
                             }
+		            .icn .ic{
+                            text-align: center;
+                            margin-right: 9px}
+
 
 
             }
